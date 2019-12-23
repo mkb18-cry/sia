@@ -1,0 +1,5 @@
+1. rubah logo header halaman web (admin dan user)
+   di folder stuu -> index.php -> line 111
+
+2. 
+

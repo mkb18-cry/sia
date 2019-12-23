@@ -1,0 +1,14 @@
+akun dosen 
+username : daniel@asfasolution.com
+password : 123456
+
+
+
+akun admin
+username : info@asfasolution.com
+password : admin
+
+
+akun mahasiswa
+username : adi_rismawan99@yahoo.com
+password : 123456
